@@ -14,12 +14,12 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Projects
 
-### 🤖 Example (Personal)
-*   **Tech Stack:** Python, [Insert Libraries, e.g., PyTorch, Scikit-Learn]
-*   **The Goal:** [Brief 1-sentence description of the problem you solved].
-*   *Repository coming soon (June 2028)*
+### 🤖 Monte Carlo Simulation on a Dartboard (University Project)
+*   **Tech Stack:** R [library]
+*   **The Goal:** An R-based simulation that utilizes Monte Carlo integration techniques to evaluate hit probabilities on a dartboard with a dynamically increasing radius.
+*   **Module:** Computational Statistics
 
 ---
 
