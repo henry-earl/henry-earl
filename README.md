@@ -1,6 +1,7 @@
 # Hi there, I'm Henry Earl 👋
 
-I am a Data & AI Solutions Specialist with a background in Mathematics, Operational Research, and Statistics. I specialize in bridging the gap between complex data frameworks and practical business value, focusing on process optimization, enterprise AI deployment, and automated workflows.
+I am a Mathematics, Operational Research, and Statistics student at Cardiff University, currently completing my AI Automation placement at TD SYNNEX.
+My approach combines mathematical and optimisation logic with cutting-edge AI technologies. I focus on analysing business workflows, identifying operational bottlenecks, and developing intelligent automation and agent-based solutions. I am passionate about bridging the gap between data-driven theory and practical AI adoption across enterprise teams.
 
 🔗 **Connect with me:** [LinkedIn](http://linkedin.com/in/henry-earl/) | ✉️ **Email:** henry@earl.me.uk
 
