@@ -18,7 +18,7 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 
 ### 🎯 Monte Carlo Simulation on a Dartboard (University Project)
 *   **Language:** R [library]
-*   **The Goal:** An R-based programme that utilizes *Monte Carlo Simulation* to evaluate where to aim on a dartboard, for a given skill level (Radius).
+*   **The Goal:** An R-based programme that utilizes **Monte Carlo Simulation** to evaluate where to aim on a dartboard, for a given skill level (Radius).
 *   **Module:** Computational Statistics
 
 ---
