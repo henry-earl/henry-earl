@@ -31,7 +31,8 @@ I am a Data & AI Solutions Specialist with a background in Mathematics, Operatio
 
 ## 🎓 Education & Credentials
 
-*   **BSc Mathematics, Operational Research and Statistics** | Cardiff University *(Targeting 1st Class Honours)*
+*   **BSc Mathematics, Operational Research and Statistics** | Cardiff University
+    *   *(Targeting 1st Class Honours)*
     *   *Accredited by the Institute of Mathematics and its Applications (IMA)*
     *   *Key Focus Areas:* Computational Statistics, Python-driven Mathematical Investigations, Probability Theory, Operational Research.
 
