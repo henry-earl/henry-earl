@@ -10,7 +10,7 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 ## 🛠️ Technical Toolkit
 
 *   **Languages:** Python, R, SQL, SAS
-*   **Data & ML Libraries:** Pandas, NumPy, PyTorch, Scikit-Learn
+*   **Data & ML Libraries:** Pandas, NumPy
 
 ---
 
