@@ -16,11 +16,23 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 
 ## 🚀 Projects (Still filling this out: *25/07/26*)
 
-### 🎯 Monte Carlo Simulation on a Dartboard (University Project)
-*   **Language:** R [library]
-*   **The Goal:** An R-based programme that utilizes **Monte Carlo Simulation** to evaluate where to aim on a dartboard, for a given skill level (Radius).
-*   **Module:** Computational Statistics
+### 🎲 Object-Oriented Dice Rigging & Simulation Library (University Project)
+* **Language:** Python
+* **The Goal:** A custom object-oriented library allowing users to build rigged dice objects and simulate complex discrete probability rolls, optimized for tactical decision-making in specific board games.
+* **Module:** Computing for Mathematics
+* **Mark:** 1st (82%)
 
+### 🏀 Advanced NBA Performance Analytics (University Project)
+* **Language:** R (R-Markdown)
+* **The Goal:** An analytical paper leveraging exploratory data analysis to evaluate defensive and offensive player metrics over a full season, finding trends and exploring their strategic implications on team tactics.
+* **Module:** Computational Statistics
+* **Mark:** 1st (71%)
+
+### 🎯 Monte Carlo Simulation on a Dartboard (University Project)
+* **Language:** R
+* **The Goal:** A statistical program utilizing Monte Carlo simulations to model and evaluate optimal target areas on a dartboard based on variable player skill thresholds (error radius).
+* **Module:** Computational Statistics
+* **Mark:** 2:1 (67%)
 ---
 
 ## 💼 Professional Highlights
