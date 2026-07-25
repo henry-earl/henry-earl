@@ -14,7 +14,7 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects (Still filling this out: *25/07/26*)
 
 ### 🎯 Monte Carlo Simulation on a Dartboard (University Project)
 *   **Language:** R [library]
