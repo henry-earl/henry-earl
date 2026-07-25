@@ -22,7 +22,7 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 * **Module:** Computing for Mathematics
 * **Mark:** 1st (82%)
 
-### 🏀 Advanced NBA Performance Analytics (University Project)
+### 🏀 [Advanced NBA Performance Analytics](https://github.com/henry-earl/Advanced-NBA-Performance-Analytics) (University Project)
 * **Language:** R (R-Markdown)
 * **Summary:** An analytical paper leveraging exploratory data analysis to evaluate defensive and offensive player metrics over a full season, finding trends and exploring their strategic implications on team tactics.
 * **Module:** Computational Statistics
