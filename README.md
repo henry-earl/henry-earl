@@ -28,7 +28,7 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 * **Module:** Computational Statistics
 * **Mark:** 1st (71%)
 
-### 🎯 Monte Carlo Simulation on a Dartboard (University Project)
+### 🎯 [Monte Carlo Simulation on a Dartboard](https://github.com/henry-earl/Monte-Carlo-Simulation-on-a-Dartboard) (University Project)
 * **Language:** R
 * **Summary:** A statistical program utilizing Monte Carlo simulations to model and evaluate optimal target areas on a dartboard based on variable player skill thresholds (error radius).
 * **Module:** Computational Statistics
