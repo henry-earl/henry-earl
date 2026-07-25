@@ -14,7 +14,7 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects (Updating: 25/07/26)
 
 ### 🎲 Object-Oriented Dice Rigging & Simulation Library (University Project)
 * **Language:** Python
