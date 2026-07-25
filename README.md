@@ -3,7 +3,7 @@
 I am a Mathematics, Operational Research, and Statistics student at Cardiff University, currently completing my AI Automation placement at TD SYNNEX.
 My approach combines mathematical and optimisation logic with cutting-edge AI technologies. I focus on analysing business workflows, identifying operational bottlenecks, and developing intelligent automation and agent-based solutions. I am passionate about bridging the gap between data-driven theory and practical AI adoption across enterprise teams.
 
-🔗 **Connect with me:** [LinkedIn](http://linkedin.com/in/henry-earl/) | ✉️ **Email:** henry@earl.me.uk
+🔗 **Connect with me:** [LinkedIn](http://linkedin.com/in/henry-earl/) | 📧 **Email:** henry@earl.me.uk
 
 ---
 
