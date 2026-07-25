@@ -26,14 +26,14 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 ## 💼 Professional Highlights
 
 *   **AI Automation Analyst Placement (TD SYNNEX):** Optimising Business Operations & Driving Efficiency through Intelligent Automation Solutions | Accelerating AI Adoption Across the Business
-*   **Industry Insights (SAS Institute):** Shadowed Senior Data Scientists to analyze enterprise AI deployments, risk modeling, and fraud detection frameworks using **SAS Viya** and **SAS Studio**.
+*   **Industry Insights (SAS Institute):** Shadowed a Senior Data Scientist, gaining exposure to SAS Viya and SAS Studio in a professional analytics environment | Saw application of SAS analytics in the financial sector, including use cases such as risk modelling and fraud detection.
 
 ---
 
 ## 🎓 Education & Credentials
 
 *   **BSc Mathematics, Operational Research and Statistics** | Cardiff University
-    *   *(Targeting 1st Class Honours)*
+    *   *On track for a 2:1 (Upper Second Class Honours)*
     *   *Accredited by the Institute of Mathematics and its Applications (IMA)*
     *   *Key Focus Areas:* Computational Statistics, Python-driven Mathematical Investigations, Probability Theory, Operational Research.
 
