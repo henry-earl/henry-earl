@@ -16,7 +16,7 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 
 ## 🚀 Projects (Updating: 25/07/26)
 
-### 🎲 Object-Oriented Dice Rigging & Simulation Library (University Project)
+### 🎲 [Object-Oriented Dice Rigging & Simulation Library](https://github.com/henry-earl/manipylated-dice) (University Project)
 * **Language:** Python
 * **Summary:** A custom object-oriented library allowing users to build rigged dice objects and simulate complex discrete probability rolls, optimized for tactical decision-making in specific board games.
 * **Module:** Computing for Mathematics
