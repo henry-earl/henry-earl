@@ -14,7 +14,7 @@ My approach combines mathematical and optimisation logic with cutting-edge AI te
 
 ---
 
-## 🚀 Projects (Updating: 25/07/26)
+## 🚀 Projects
 
 ### 🎲 [Object-Oriented Dice Rigging & Simulation Library](https://github.com/henry-earl/manipylated-dice) (University Project)
 * **Language:** Python
