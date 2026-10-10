@@ -1,6 +1,3 @@
-<img width="1199" height="309" alt="Linkedin Banner" src="https://github.com/user-attachments/assets/655b9ec9-4b7b-4880-8793-1de47e474a0b" />
-
-
 # Henry Earl
 
 Mathematics, Operational Research, and Statistics student at Cardiff University, currently completing an AI Automation placement at TD SYNNEX.
